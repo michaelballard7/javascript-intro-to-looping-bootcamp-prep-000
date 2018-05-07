@@ -27,6 +27,7 @@ function doWhileLoop(array)
   
 }
 
+
 function doWhileLoop(array) 
 {
   myArray = array
